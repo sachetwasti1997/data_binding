@@ -26,6 +26,5 @@ class MainActivity : AppCompatActivity() {
             else{
                 Toast.makeText(this, "Please enter a name first", Toast.LENGTH_SHORT).show()
             }
-        //
     }
 }
